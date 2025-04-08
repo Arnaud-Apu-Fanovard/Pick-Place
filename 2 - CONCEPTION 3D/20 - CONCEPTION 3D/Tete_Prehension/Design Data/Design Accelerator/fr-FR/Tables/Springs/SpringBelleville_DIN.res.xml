@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Rondelle Belleville - DIN"/>
+  <string id="%2%" value="Nom"/>
+  <string id="%3%" value="Désignation du ressort"/>
+  <string id="%4%" value="D"/>
+  <string id="%5%" value="Diamètre externe"/>
+  <string id="%6%" value="mm"/>
+  <string id="%7%" value="Diamètre intérieur"/>
+  <string id="%8%" value="d"/>
+  <string id="%9%" value="Epaisseur de la matière"/>
+  <string id="%10%" value="t"/>
+  <string id="%11%" value="Hauteur à vide"/>
+  <string id="%12%" value="H"/>
+</Resources>

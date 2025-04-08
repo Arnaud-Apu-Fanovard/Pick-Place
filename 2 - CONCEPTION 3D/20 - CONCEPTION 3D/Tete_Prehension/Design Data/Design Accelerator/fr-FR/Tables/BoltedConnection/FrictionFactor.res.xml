@@ -1,0 +1,17 @@
+<Resources>
+  <string id="%1%" value="Coefficient de frottement"/>
+  <string id="%2%" value="Matière"/>
+  <string id="%3%" value="Non lubrifié"/>
+  <string id="%4%" value="Lubrifié"/>
+  <string id="%5%" value="acier - acier"/>
+  <string id="%6%" value="acier - fonte"/>
+  <string id="%7%" value="acier - laiton"/>
+  <string id="%8%" value="acier - laiton"/>
+  <string id="%9%" value="fonte - fonte"/>
+  <string id="%10%" value="fonte - bronze"/>
+  <string id="%11%" value="bronze - bronze"/>
+  <string id="%12%" value="aluminium - aluminium"/>
+  <string id="%13%" value="cuivre - cuivre"/>
+  <string id="%14%" value="acier - plexiglas"/>
+  <string id="%15%" value="plexiglas - plexiglas"/>
+</Resources>

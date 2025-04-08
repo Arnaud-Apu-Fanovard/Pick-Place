@@ -1,0 +1,16 @@
+<Resources>
+  <string id="%1%" value="Facteur d'application"/>
+  <string id="%2%" value="Uniforme"/>
+  <string id="%3%" value="Chocs légers"/>
+  <string id="%4%" value="Chocs intermittents"/>
+  <string id="%5%" value="Chocs lourds"/>
+  <string id="%6%" value="Uniforme (turbine, moteur)"/>
+  <string id="%7%" value="Léger	(moteur hydraulique)"/>
+  <string id="%8%" value="Moyen (combustion interne, moteur)"/>
+  <string id="%9%" value="Type de charge"/>
+  <string id="%10%" value="Source de puissance"/>
+  <string id="%11%" value="(générateur-soufflante)"/>
+  <string id="%12%" value="(oscillations, pompes, etc.)"/>
+  <string id="%13%" value="(pompes d'actionnement)"/>
+  <string id="%14%" value="(poinçonnage, cisaillement, etc.)"/>  
+</Resources>

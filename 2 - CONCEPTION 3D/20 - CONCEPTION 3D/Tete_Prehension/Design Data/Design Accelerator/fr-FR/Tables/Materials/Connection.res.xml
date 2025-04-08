@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Matière"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Résistance à la traction"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="Pression admissible"/>
+  <string id="%6%" value="Contrainte de cisaillement admissible"/>
+  <string id="%7%" value="Acier de construction"/>
+  <string id="%8%" value="Acier au carbone"/>
+  <string id="%9%" value="Acier allié et fin"/>
+  <string id="%10%" value="Acier de surface trempée"/>
+  <string id="%11%" value="Acier cémenté"/>
+  <string id="%12%" value="Fonte avec graphite laminaire"/>
+  <string id="%13%" value="Fonte avec graphite sphérique"/>
+  <string id="%14%" value="Alliage d'aluminium"/>
+  <string id="%15%" value="Matière"/>
+  <string id="%16%" value="S|.ult|"/>
+  <string id="%17%" value="p|.A|"/>
+  <string id="%18%" value="||t||.Al|"/>
+</Resources>

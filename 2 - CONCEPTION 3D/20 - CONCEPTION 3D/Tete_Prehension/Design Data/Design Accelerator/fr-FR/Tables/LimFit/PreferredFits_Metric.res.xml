@@ -1,0 +1,19 @@
+<Resources>
+  <string id="%1%" value="Ajustement préféré (système métrique)"/>
+  <string id="%2%" value="Nom d'ajustement"/>
+  <string id="%3%" value="Transition=1 Interférence=2 Jeu=3"/>
+  <string id="%4%" value="Couplé=1  A arbre unique=2"/>
+  <string id="%5%" value="Description de l'utilisation de l'ajustement"/>
+  <string id="%10%" value="Connexion par pression fixe avec jeu imperceptible ou faible interférence\nAssemblé en utilisant une faible force\nUtilisé pour les clavettes de moteurs électriques sur les arbres, les engrenages ou les vis ajustées"/>
+  <string id="%11%" value="Connexion par pression régulière avec faible jeu ou faible interférence&#xA;\nAssemblé avec un maillet en caoutchouc ou un marteau de cuivre\n Utilisé pour démonter les assemblages par pression des moyeux d'engrenage, de poulies, etc."/>
+  <string id="%12%" value="Connexion par pression changeante avec faible jeu et interférences imperceptibles\nAssemblé à la main\nUtilisé pour démonter facilement les joints d'engrenages, de poulies, de manchons, etc."/>
+  <string id="%13%" value="Connexion par pression avec interférence élevée\nAssemblé en utilisant une force importante à différentes\ntempératures de composant\nUtilisé pour les moyeux d'engrenages ou les bords tombés connectés à l'arbre"/>
+  <string id="%14%" value="Connexion par pression avec interférence moyenne\nAssemblé en utilisant une force importante. Différentes\ntempératures sont offertes pour le perçage et l'arbre.\nUtilisé pour les moyeux de lamelles d'accouplement ou les chemises d'arbre sous coussinet"/>  
+  <string id="%15%" value="Connexion ajustée avec cisaillement et jeu imperceptible\nPositionné avec une force plus importante\nVous pouvez actionner les composants à la main après lubrification\nRoues échangeables, bagues de calage, transport circulaire"/>
+  <string id="%16%" value="Connexion ajustée avec cisaillement\nPositionné avec une force plus importante\nVous pouvez actionner les composants à la main après lubrification\nDésassemblage léger des parties, bague d'extension,\nComposants de machines agricoles fixés à des arbres avec pivots,\nécrous ou joint en chemise"/>
+  <string id="%17%" value="Raccord rotatif ajusté avec jeu minime\nEnsemble actuellement assemblé sans jeu appréciable\nPignons baladeurs et roues d'embrayage ou tiges coulissantes dans les roulements"/>
+  <string id="%18%" value="Raccords rotatifs ajustés\nEnsemble avec jeu appréciable\nPrincipaux raccords ajustés pour les machines de production\nRaccords ajustés des manches à balai coulissants ou des vilebrequins"/>
+  <string id="%19%" value="Raccords rotatifs ajustés plus lâches\nEnsemble avec jeu plus important\naccords ajustés pour arbres à assemblage long, par exemple machines agricoles"/>
+  <string id="%20%" value="Raccord rotatif ajusté avec jeu considérable\nnsemble avec jeu élevé\nPlusieurs arbres assemblés de machines de production ou de machines à piston,\narbres de leviers circulaires en acier fondu"/>
+  <string id="%21%" value="Raccords ajustés avec jeu élevé pour les pièces à fortes tolérances\nEnsemble avec jeu maximal\nBouchons rotatifs, vis, chevilles d'assemblage des barres de freins,\nRaccords ajustés pour pièces à souder"/>
+</Resources>

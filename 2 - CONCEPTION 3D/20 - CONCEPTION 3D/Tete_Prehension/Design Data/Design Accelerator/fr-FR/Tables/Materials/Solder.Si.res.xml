@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Matière de liaison"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Résistance à la rupture de la liaison"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Résistance au cisaillement de la liaison"/>
+  <string id="%6%" value="Soudure à l'étain"/>
+  <string id="%7%" value="Soudure au cuivre"/>
+  <string id="%8%" value="Soudure à l'argent"/>
+  <string id="%9%" value="Matière"/>
+  <string id="%10%" value="S||.s|"/>
+  <string id="%11%" value="S||.t|"/>
+</Resources>

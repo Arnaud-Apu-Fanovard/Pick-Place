@@ -1,0 +1,5 @@
+<Resources>
+  <string id="%1%" value="Le facteur de réduction de charge du roulement dépend de la température d'exploitation"/>
+  <string id="%2%" value="Température"/>
+  <string id="%3%" value="Facteur de réduction de charge"/>
+</Resources>

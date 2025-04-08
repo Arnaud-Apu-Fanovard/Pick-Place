@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Matière de la portée d'arbre"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Pression admissible"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Acier de construction"/>
+  <string id="%6%" value="Acier allié/fin"/>
+  <string id="%7%" value="Acier moulé"/>
+  <string id="%8%" value="Fonte grise"/>
+  <string id="%9%" value="Matière"/>
+  <string id="%10%" value="||s||.al|"/>
+</Resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><Resources>
+  <string id="%1%" value="ANSI"/>
+  <string id="%2%" value="Vis mécanique à tête plate (82)"/>
+  <string id="%3%" value="Vis mécanique à tête plate (100)"/>
+  <string id="%4%" value="Vis à tête hexagonale"/>
+  <string id="%5%" value="Vis mécanique hexagonale"/>
+  <string id="%6%" value="Vis mécanique à tête ovale"/>
+  <string id="%7%" value="Vis à tête cylindrique"/>
+  <string id="%8%" value="ANSI (métrique)"/>
+  <string id="%9%" value="Vis mécanique à tête plate"/>
+  <string id="%10%" value="Vis d'assemblage à tête hexagonale"/>
+  <string id="%11%" value="Vis mécanique à tête hexagonale"/>
+  <string id="%12%" value="DIN"/>
+  <string id="%13%" value="Vis à tête fraisée plate"/>
+  <string id="%14%" value="Vis à tête fraisée bombée"/>
+  <string id="%15%" value="Vis à tête hexagonale"/>
+  <string id="%16%" value="Vis à tête fraisée à six pans creux"/>
+  <string id="%17%" value="Vis à tête cylindrique à six pans creux"/>
+  <string id="%18%" value="ISO"/>
+  <string id="%19%" value="Vis d'assemblage à tête fraisée à six pans creux"/>
+  <string id="%20%" value="JIS"/>
+  <string id="%21%" value="Perçage lisse"/>
+  <string id="%22%" value="Vis mécanique à tête plate (80)"/>
+  <string id="%23%" value="Vis à tête fraisée plate DIN EN ISO 2009"/>
+  <string id="%24%" value="Vis à tête fraisée bombée ISO 2010"/>
+  <string id="%25%" value="Vis d'assemblage à tête hexagonale DIN EN 24017"/>
+  <string id="%26%" value="Vis d'assemblage à tête hexagonale DIN EN 24014 (lamage)"/>
+  <string id="%27%" value="Vis à tête fraisée plate à six pans creux DIN EN ISO 10642"/>
+  <string id="%28%" value="Vis à tête cylindrique DIN EN ISO 4762"/>
+  <string id="%29%" value="Vis à tête cylindrique fendue DIN 84"/>
+  <string id="%30%" value="Vis à tête fraisée plate ISO 2009/7046"/>
+  <string id="%31%" value="Vis à tête fraisée bombée ISO 2010/7047"/>
+  <string id="%32%" value="Vis d'assemblage à tête hexagonale ISO 24017"/>
+  <string id="%33%" value="Vis d'assemblage à tête hexagonale ISO 24014 (lamage)"/>
+  <string id="%34%" value="Vis à tête fraisée plate à six pans creux ISO 10642"/>
+  <string id="%35%" value="Vis à tête cylindrique ISO 4762"/>
+  <string id="%36%" value="Vis à tête cylindrique fendue ISO 1207"/>
+  <string id="%37%" value="GOST"/>
+  <string id="%38%" value="GOST 12876-67"/>
+  <string id="%39%" value="Countersunk Head GOST 12876-67"/>
+  <string id="%40%" value="Countersunk Head + Washer GOST 12876-67"/>
+  <string id="%41%" value="Hex Head Bolt / Nut GOST 12876-67"/>  
+  <string id="%42%" value="Hex Head Bolt / Nut (Reduced Size) GOST 12876-67"/>
+  <string id="%43%" value="Hex Head Bolt / Nut (Enlarged Washer) GOST 12876-67"/>
+  <string id="%44%" value="Cylindrical Head Hex Socket Screw GOST 12876-67"/>
+  <string id="%45%" value="Cylindrical Head Hex Socket Screw + Washer GOST 12876-67"/>
+  <string id="%46%" value="Cylindrical Head Slotted Screw GOST 12876-67"/>
+  <string id="%47%" value="Cylindrical Head Slotted Screw + Washer GOST 12876-67"/>
+</Resources>

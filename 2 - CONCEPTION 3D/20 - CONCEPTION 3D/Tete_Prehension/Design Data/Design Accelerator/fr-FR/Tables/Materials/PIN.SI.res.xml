@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Matière de broche"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Contrainte de cisaillement admissible"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Acier gr. 37; 42; 4D"/>
+  <string id="%6%" value="Acier 11 600; 12 040; 12 050; 8G"/>
+  <string id="%7%" value="Acier 11 500; 5D"/>
+  <string id="%8%" value="Acier 11 700"/>
+  <string id="%9%" value="Matière"/>
+  <string id="%10%" value="||t||.Al|"/>
+</Resources>

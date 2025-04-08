@@ -1,0 +1,7 @@
+<Resources>
+  <string id="%1%" value="Facteur d'endurance"/>
+  <string id="%2%" value="Unidirectionnel"/>
+  <string id="%3%" value="Complètement inversé"/>
+  <string id="%4%" value="Nb de cycles de couple"/>
+  <string id="%5%" value="Facteur d'endurance, Kf"/>
+</Resources>

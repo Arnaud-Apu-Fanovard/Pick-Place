@@ -1,0 +1,29 @@
+<Resources>
+  <string id="%1%" value="Type de matières (SI)"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Module d'élasticité"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Module de raideur"/>
+  <string id="%6%" value="Coefficient de Poisson"/>
+  <string id="%7%" value="Densité"/>
+  <string id="%8%" value="kg/m^3"/>
+  <string id="%9%" value="Fonte grise"/>
+  <string id="%10%" value="Fonte malléable"/>
+  <string id="%11%" value="Acier"/>
+  <string id="%12%" value="Acier moulé"/>
+  <string id="%13%" value="Acier, nickel"/>
+  <string id="%14%" value="Acier inoxydable"/>
+  <string id="%15%" value="Laiton"/>
+  <string id="%16%" value="Bronze"/>
+  <string id="%17%" value="Alliage d'aluminium"/>
+  <string id="%18%" value="Alliages de magnésium"/>
+  <string id="%19%" value="Cuivre"/>
+  <string id="%20%" value="Matière"/>
+  <string id="%21%" value="E"/>
+  <string id="%22%" value="G"/>
+  <string id="%23%" value="||m|"/>
+  <string id="%24%" value="||r|"/>
+  <string id="%25%" value="nd"/>
+  <string id="%26%" value="S|.y|"/>
+  <string id="%27%" value="Limite d'élasticité"/>
+</Resources>

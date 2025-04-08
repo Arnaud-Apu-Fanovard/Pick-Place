@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Facteur d'application"/>
+  <string id="%2%" value="Chocs liés à la machine d'entraînement"/>
+  <string id="%3%" value="Chocs liés à la machine entraînée"/>
+  <string id="%4%" value="Fréquent"/>
+  <string id="%5%" value="Chocs légers"/>
+  <string id="%6%" value="Chocs modérés"/>
+  <string id="%7%" value="Chocs forts"/>
+</Resources>

@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="Pression de freinage"/>
+  <string id="%2%" value="Matière"/>
+  <string id="%3%" value="p[psi]"/>
+  <string id="%4%" value="Moulé"/>
+  <string id="%5%" value="Tissé"/>
+  <string id="%6%" value="Métal fritté"/>
+  <string id="%7%" value="Liège"/>
+  <string id="%8%" value="Bois"/>
+  <string id="%9%" value="Fonte, acier dur"/>
+</Resources>

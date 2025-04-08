@@ -1,0 +1,41 @@
+<Resources>
+<string id="%1%" value="Matière de ressort"/>
+<string id="%2%" value="Désignation de matière"/>
+<string id="%3%" value="Densité"/>
+<string id="%4%" value="kg/m^3"/>
+<string id="%5%" value="Module de traction"/>
+<string id="%6%" value="MPa"/>
+<string id="%7%" value="Rapport entre la contrainte de pliage admissible et la résistance à la traction"/>
+<string id="%8%" value="Résistance à la traction"/>
+<string id="%9%" value="Dessiné et breveté - Acier au carbone - 1e classe"/>
+<string id="%10%" value="Dessiné et breveté - Acier au carbone - 2e classe"/>
+<string id="%11%" value="Dessiné et breveté - Acier au carbone - 3e classe"/>
+<string id="%12%" value="Dessiné et breveté - Acier au carbone - 4e classe"/>
+<string id="%13%" value="Dessiné et breveté - Acier au carbone - 5e classe"/>
+<string id="%14%" value="Fil d'acier au carbone traité thermiquement"/>
+<string id="%15%" value="Fil traité thermiquement - Acier Si-Cr (14 260)"/>
+<string id="%16%" value="Fil recuit - Acier Si-Cr (14 260)"/>
+<string id="%17%" value="Fil traité thermiquement - Acier Mn-Cr-V (15 260)"/>
+<string id="%18%" value="Fil recuit - Acier Mn-Cr-V (15 260)"/>
+<string id="%19%" value="Fil écroui - Acier inoxydable Cr-Ni (17 242)"/>
+<string id="%20%" value="Bronze d'étain dessiné (42 3016 et 42 3018)"/>
+<string id="%21%" value="Laiton dessiné (42 3210 et 42 3213)"/>
+<string id="%22%" value="Matière"/>
+<string id="%23%" value="Std"/>
+<string id="%24%" value="Norme"/>
+<string id="%25%" value="R|.o|"/>
+<string id="%26%" value="E"/>
+<string id="%27%" value="Coeffs"/>
+<string id="%28%" value="WD"/>
+<string id="%29%" value="Diamètres de fil"/>
+<string id="%30%" value="mm"/>
+<string id="%31%" value="||s||.ult|"/>
+<string id="%32%" value="ISO"/>
+<string id="%33%" value="DIN"/>
+<string id="%34%" value="Diamètres de fil et résistance à la traction"/>
+<string id="%35%" value="nd"/>
+<string id="%36%" value="Fil d'acier, classe 1"/>
+<string id="%37%" value="Fil d'acier, classe 2 et 2A"/>
+<string id="%38%" value="Fil d'acier, classe 3"/>
+<string id="%39%" value="GOST"/>
+</Resources>

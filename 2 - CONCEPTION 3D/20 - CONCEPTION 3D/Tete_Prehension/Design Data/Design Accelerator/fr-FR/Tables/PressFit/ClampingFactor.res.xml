@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Facteur de serrage"/>
+  <string id="%2%" value="Assemblage par pression"/>
+  <string id="%3%" value="Lubrification"/>
+  <string id="%4%" value="Facteur de serrage pour"/>
+  <string id="%5%" value="Déblocage"/>
+  <string id="%6%" value="Glissement"/>
+  <string id="%7%" value="Circonférentiel"/>
+  <string id="%8%" value="Longitudinal"/>
+  <string id="%9%" value="Contraction"/>
+  <string id="%10%" value="Lubrifié"/>
+  <string id="%11%" value="Non lubrifié"/>
+  <string id="%12%" value="Presse"/>
+</Resources>

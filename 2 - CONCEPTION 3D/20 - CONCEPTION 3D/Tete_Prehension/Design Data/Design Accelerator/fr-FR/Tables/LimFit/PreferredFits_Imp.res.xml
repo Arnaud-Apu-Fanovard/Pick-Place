@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Ajustement préféré (système impérial)"/>
+  <string id="%2%" value="Nom d'ajustement"/>
+  <string id="%3%" value="Transition=1 Interférence=2 Jeu=3"/>
+  <string id="%4%" value="Couplé=1  A arbre unique=2"/>
+  <string id="%5%" value="Description de l'utilisation de l'ajustement"/>
+  <string id="%10%" value="Ajustements géographiques incertains\nCompromis entre les ajustements avec jeu et les ajustements avec serrage,\nlorsque la précision des emplacements est importante."/>
+  <string id="%11%" value="Ajustements géographiques incertains\nUtilisés lorsque la précision des emplacements est primordiale.\nNe pas utiliser avec des pièces conçues pour transmettre des charges fonctionnelles\nd'une pièce à une autre à l'aide du serrage de l'ajustement."/>
+  <string id="%12%" value="Ajustements à force moyenne\nPour pièces en acier ordinaires destinées à des calages à retrait sur des sections légères."/>
+  <string id="%13%" value="Ajustements à force lourde\nPour pièces en acier plus lourdes ou calages à retrait sur des sections moyennes."/>
+  <string id="%14%" value="Ajustements serrés\nPour pièces hautement contraintes ou calages à retrait\nsur lesquels les forces de pression importantes requises ne sont pas pratiques."/>
+  <string id="%15%" value="Fermer les ajustements coulissants\nPour la localisation précise des pièces \nà assembler&#xA;sans présentation perceptible."/>
+  <string id="%16%" value="Ajustements coulissants\nPour la localisation précise des pièces.\nLes pièces se déplacent et pivotent facilement, mais non librement."/>
+  <string id="%17%" value="Ajustements tournants de précision\nPour travaux de précision à vitesse lente et&#xA;\npressions de portée d'arbre élevées."/>
+  <string id="%18%" value="Fermer les ajustements tournants\nPour les ajustements tournants sur machines de précision\navec vitesses de surface modérées et pression de portée d'arbre."/>
+  <string id="%19%" value="Ajustements à force moyenne\nPour vitesses plus élevées ou pressions de portée d'arbre importantes."/>
+  <string id="%20%" value="Ajustements tournants libres\nLorsque la précision n'est pas essentielle ou\nque des variations de température importantes risquent de se produire."/>
+  <string id="%21%" value="Ajustements tournants lâches\nLorsque des tolérances commerciales importantes risquent d'être nécessaires,\navec surmesure, sur le membre extérieur."/>
+  <string id="%22%" value="Ajustements géographiques incertains\nPour pièces immobiles en général,\nmais pouvant être librement assemblées et désassemblées."/>
+</Resources>

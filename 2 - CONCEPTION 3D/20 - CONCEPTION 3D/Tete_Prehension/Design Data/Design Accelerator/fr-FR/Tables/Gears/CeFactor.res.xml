@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Facteur de correction d'alignement de la maille"/>
+  <string id="%2%" value="L'engrenage est ajusté au moment de l'assemblage."/>
+  <string id="%3%" value="Le rodage améliore la compatibilité de l'engrenage."/>
+  <string id="%4%" value="Toutes les autres conditions"/>
+</Resources>

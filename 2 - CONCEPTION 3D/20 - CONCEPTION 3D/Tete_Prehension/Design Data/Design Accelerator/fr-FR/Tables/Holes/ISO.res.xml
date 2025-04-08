@@ -1,0 +1,18 @@
+<Resources>
+  <string id="%1%" value="Diamètre nominal"/>
+  <string id="%2%" value="Jeu réduit"/>
+  <string id="%3%" value="Jeu normal"/>
+  <string id="%4%" value="Jeu souple"/>
+  <string id="%5%" value="Diamètre de la tête"/>
+  <string id="%6%" value="Profondeur de lamage"/>
+  <string id="%7%" value="Angle de fraisure"/>
+  <string id="%8%" value="Perçage lisse ISO"/>
+  <string id="%9%" value="Vis à tête fraisée plate ISO 2009/7046"/>
+  <string id="%10%" value="Vis à tête fraisée bombée ISO 2010/7047"/>
+  <string id="%11%" value="Vis d'assemblage à tête hexagonale ISO 24017"/>
+  <string id="%12%" value="Vis d'assemblage à tête hexagonale ISO 24014 (lamage)"/>
+  <string id="%13%" value="Vis à tête hexagonale ISO"/>
+  <string id="%14%" value="Vis à tête fraisée plate à six pans creux ISO 10642"/>
+  <string id="%15%" value="Vis à tête cylindrique ISO 4762"/>
+  <string id="%16%" value="Vis à tête cylindrique fendue ISO 1207"/>
+</Resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Facteur de service"/>
+  <string id="%2%" value="Caractéristiques de la machine entraînée"/>
+  <string id="%3%" value="Caractéristiques de la machine d'entraînement"/>
+  <string id="%4%" value="Fonctionnement doux"/>
+  <string id="%5%" value="Chocs faibles"/>
+  <string id="%6%" value="Chocs modérés"/>
+  <string id="%7%" value="Chocs forts"/>
+  <string id="%8%" value="Facteur de choc"/>
+</Resources>

@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Matière de spline"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Résistance à la traction admissible"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Acier trempé"/>
+  <string id="%6%" value="Matière"/>
+  <string id="%7%" value="S|.u|"/>
+  <string id="%8%" value="Dureté"/>
+  <string id="%9%" value="HRC"/>
+  <string id="%10%" value="Dureté des côtés de la dent"/>
+  <string id="%11%" value="nd"/>
+</Resources>

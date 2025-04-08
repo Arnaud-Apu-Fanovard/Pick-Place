@@ -1,0 +1,163 @@
+(footprint "TestPoint_KEYSTONE_5029"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.02 -2.9 0)
+		(layer "F.SilkS")
+		(uuid "01a01406-be30-4244-a82c-bd45e6da1dd0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TestPoint_KEYSTONE_5029"
+		(at 6.1 2.9 0)
+		(layer "F.Fab")
+		(uuid "4aeb5e84-db51-4061-bb47-bba1d2ac543c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c3f27567-607c-4350-b14e-8f7e27989430")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6880063a-6ca7-4cd7-83ed-dba1f4ed0412")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39248d31-15f7-4130-ba98-db4d8388d81c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.155 -1.265)
+		(end -2.155 1.265)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "56ff55b0-5014-44de-a919-147937c6c0f5")
+	)
+	(fp_line
+		(start -2.155 1.265)
+		(end 2.155 1.265)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9388ce9b-d45b-469c-8c0e-a9e7bd3d6dec")
+	)
+	(fp_line
+		(start 2.155 -1.265)
+		(end -2.155 -1.265)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "505a3bed-4eca-496b-8ab7-6bd39d7d1a28")
+	)
+	(fp_line
+		(start 2.155 1.265)
+		(end 2.155 -1.265)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0762af0c-69ef-469b-a4ca-a3f01b025937")
+	)
+	(fp_line
+		(start -1.905 -1.015)
+		(end -1.905 1.015)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f7b1c612-7dea-49a9-a498-002ce66aa0d3")
+	)
+	(fp_line
+		(start -1.905 1.015)
+		(end 1.905 1.015)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8156a372-8ae7-4958-96b6-9a04db912014")
+	)
+	(fp_line
+		(start 1.905 -1.015)
+		(end -1.905 -1.015)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e41aa640-e74f-4045-9c1d-67e7c3444117")
+	)
+	(fp_line
+		(start 1.905 1.015)
+		(end 1.905 -1.015)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "03396596-eee9-492e-a355-7406f863a225")
+	)
+	(pad "TP" smd rect
+		(at 0 0)
+		(size 3.8 2.03)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "aeaf9c43-d05b-447f-966c-b0d3500892b8")
+	)
+	(model "C:/Users/malam/Documents/6 - PROJET/14 - PICK&PLACE/Pick-Place/3 - ELECTRONIQUE & ELECTRIQUE/33 - COMPOSANTS/Testpoint/5029/5029.step"
+		(offset
+			(xyz 0 0 0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

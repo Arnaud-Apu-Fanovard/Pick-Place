@@ -1,0 +1,128 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "8d55e1d9-c63a-477f-a233-550d445a056c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 16.51 16.51)
+		(size 58.42 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "625f271d-fb35-4df7-9cdc-fed702e9fd29")
+		(property "Sheetname" "MCU"
+			(at 16.51 15.7984 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 16.51 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PnP_Mother_Board"
+				(path "/8d55e1d9-c63a-477f-a233-550d445a056c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 16.51)
+		(size 41.91 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6698496e-9586-41a9-9ab1-9e2b23ef25f6")
+		(property "Sheetname" "USB"
+			(at 77.47 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 77.47 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PnP_Mother_Board"
+				(path "/8d55e1d9-c63a-477f-a233-550d445a056c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 17.78)
+		(size 57.15 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5060530-c881-4594-a818-d65d6e405ed6")
+		(property "Sheetname" "Power"
+			(at 121.92 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 121.92 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PnP_Mother_Board"
+				(path "/8d55e1d9-c63a-477f-a233-550d445a056c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

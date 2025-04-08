@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Facteur de forces supplémentaires"/>
+  <string id="%2%" value="Facteur"/>
+  <string id="%3%" value="Type de machine"/>
+  <string id="%4%" value="Machines électriques rotatives, turbines, turbocompresseurs"/>
+  <string id="%5%" value="Moteurs ferroviaires et à pistons"/>
+  <string id="%6%" value="Transporteurs à courroie, blondins, pompes, ventilateurs"/>
+  <string id="%7%" value="Grues, ascenseur, ventilateurs de mine"/>
+  <string id="%8%" value="Monte-charge et pompes"/>
+  <string id="%9%" value="Pompes à piston et compresseurs"/>
+  <string id="%10%" value="Batées, broyeurs cylindriques et à marteau, concasseurs"/>
+  <string id="%11%" value="Machines d'excavation, machines de forage à grande profondeur"/>
+  <string id="%12%" value="Séchoirs rotatifs"/>
+  <string id="%13%" value="Machines à papier et textile"/>
+  <string id="%14%" value="Machines de transformation des aliments"/>
+  <string id="%15%" value="Broyeurs; machines de perçage, usinage, sciage et gravure sur bois"/>
+  <string id="%16%" value="Dérouleuses, machines de découpe à mouvement alternatif"/>
+  <string id="%17%" value="Lamineurs, marteaux-pilons, cisailles à tôle électriques, poinçons"/>
+  <string id="%18%" value="Trains et laminoirs dégrossisseurs"/>
+</Resources>

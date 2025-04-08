@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Facteur de conception de manchon"/>
+  <string id="%2%" value="Connexion fixe"/>
+  <string id="%3%" value="Manchon coulissant sans charge"/>
+  <string id="%4%" value="Manchon coulissant au cours de la charge"/>
+</Resources>

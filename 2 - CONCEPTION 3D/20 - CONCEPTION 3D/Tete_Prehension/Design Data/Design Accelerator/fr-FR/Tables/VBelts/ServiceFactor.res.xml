@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Facteur de service"/>
+  <string id="%2%" value="Faible capacité"/>
+  <string id="%3%" value="Moyenne capacité"/>
+  <string id="%4%" value="Haute capacité"/>
+  <string id="%5%" value="Très haute capacité"/>
+  <string id="%6%" value="Service intermittent"/>
+  <string id="%7%" value="Service normal"/>
+  <string id="%8%" value="Service continu"/>
+  <string id="%9%" value="3-5 heures par jour"/>
+  <string id="%10%" value="8-10 heures par jour"/>
+  <string id="%11%" value="16-24 heures par jour"/>
+  <string id="%12%" value="Machine d'entraînement"/>
+  <string id="%13%" value="Machine entraînée"/>
+  <string id="%14%" value="Couple normal"/>
+  <string id="%15%" value="Couple élevé"/>
+</Resources>

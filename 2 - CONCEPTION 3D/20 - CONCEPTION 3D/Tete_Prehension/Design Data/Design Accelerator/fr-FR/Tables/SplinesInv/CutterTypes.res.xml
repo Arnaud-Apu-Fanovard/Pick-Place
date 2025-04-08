@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="DIN 5480 - Types de fraise"/>
+  <string id="%2%" value="Type"/>
+  <string id="%3%" value="Finition des flancs"/>
+  <string id="%4%" value="h|.aP0|"/>
+  <string id="%5%" value="Coefficient de déport"/>  
+  <string id="%6%" value="ul"/>
+  <string id="%7%" value="Meulé"/>
+  <string id="%8%" value="Saillie"/>  
+  <string id="%9%" value="Broche"/> 
+  <string id="%10%" value="Usiné"/>   
+  <string id="%11%" value="c|.FP0|"/>  
+  <string id="%12%" value="Coefficient"/>      
+</Resources>

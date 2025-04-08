@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Facteur de choc"/>
+  <string id="%2%" value="Machine entraînée"/>
+  <string id="%3%" value="Moteurs électriques"/>
+  <string id="%4%" value="Moteurs à combustion à faible vitesse (1 cylindre)"/>
+  <string id="%5%" value="Moteurs à combustion à faible vitesse (2 cylindres)"/>
+  <string id="%6%" value="Moteurs à combustion à vitesse élevée (1 ou 2 cylindres)"/>
+  <string id="%7%" value="Moteurs à combustion à vitesse élevée (4 cylindres)"/>
+  <string id="%8%" value="Moteurs à combustion à vitesse élevée (6 cylindres minimum)"/>
+  <string id="%9%" value="Turbines hydrauliques à vitesse élevée"/>
+  <string id="%10%" value="Turbines hydrauliques à faible vitesse"/>
+  <string id="%11%" value="Turbines à vapeur"/>
+  <string id="%12%" value="Moteurs à vapeur"/>
+  <string id="%13%" value="Sortie de boîte de transmission"/>
+  <string id="%14%" value="Tours, perceuses"/>
+  <string id="%15%" value="Fraiseuses"/>
+  <string id="%16%" value="Raboteuses"/>
+  <string id="%17%" value="Etaux-limeurs, mortaiseuses"/>
+  <string id="%18%" value="Bancs d'étirage et de planage"/>
+  <string id="%19%" value="Presses hydrauliques"/>
+  <string id="%20%" value="Presses à excentrique"/>
+  <string id="%21%" value="Presses à levier"/>
+  <string id="%22%" value="Machines à bois"/>
+  <string id="%23%" value="Gaines isolantes"/>
+  <string id="%24%" value="Anneaux"/>
+  <string id="%25%" value="Cadres rectilignes à bonneterie"/>
+  <string id="%26%" value="Doubles flèches"/>
+  <string id="%27%" value="Compresseurs alternatifs à un seul étage"/>
+  <string id="%28%" value="Compresseurs alternatifs à deux étages"/>
+  <string id="%29%" value="Compresseurs centrifuges à un seul étage"/>
+  <string id="%30%" value="Compresseurs centrifuges à deux étages"/>
+  <string id="%31%" value="Soufflantes"/>
+  <string id="%32%" value="Ventilateurs"/>
+  <string id="%33%" value="Pompes à piston monocylindrique"/>
+  <string id="%34%" value="Pompes à piston à deux cylindres"/>
+  <string id="%35%" value="Pompes centrifugeuses"/>
+  <string id="%36%" value="Laminoirs à plusieurs cages"/>
+  <string id="%37%" value="Laminoirs continus"/>
+  <string id="%38%" value="Concasseurs"/>
+  <string id="%39%" value="Broyeurs à cuves"/>
+  <string id="%40%" value="Broyeurs cylindriques"/>
+  <string id="%41%" value="Broyeurs à marteau"/>
+  <string id="%42%" value="Calendres à transmission"/>
+  <string id="%43%" value="Calendres directes"/>
+  <string id="%44%" value="Défibreurs de cellulose"/>
+  <string id="%45%" value="Cribles à secousses"/>
+  <string id="%46%" value="Dameuses"/>
+  <string id="%47%" value="Agitateurs rotateurs"/>
+  <string id="%48%" value="Excavatrices"/>
+  <string id="%49%" value="Cultivateurs rotatifs"/>
+  <string id="%50%" value="Mélangeurs"/>
+  <string id="%51%" value="Convoyeurs de déblais meubles"/>
+  <string id="%52%" value="Convoyeurs de matériau de structure"/>
+  <string id="%53%" value="Dispositifs de levage"/>
+  <string id="%54%" value="Fourches lève-palettes"/>
+  <string id="%55%" value="Guindeaux miniers"/>
+  <string id="%56%" value="Générateurs - grande taille"/>
+  <string id="%57%" value="Générateurs - petite taille"/>
+  <string id="%58%" value="Entrée de boîte de transmission"/>
+</Resources>

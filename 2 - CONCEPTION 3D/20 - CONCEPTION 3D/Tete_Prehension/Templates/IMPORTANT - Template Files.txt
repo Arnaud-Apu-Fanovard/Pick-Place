@@ -1,0 +1,11 @@
+INFORMATIONS IMPORTANTES À L'ATTENTION DES CLIENTS QUI UTILISENT PLUSIEURS MODULES LINGUISTIQUES
+
+Applicable à :
+ - tout utilisateur qui installe plusieurs modules linguistiques et qui conserve l'emplacement d'installation par défaut des gabarits (C:\Users\Public\Documents\Autodesk\Inventor release year\Templates).
+ - tout utilisateur qui stocke et utilise des gabarits personnalisés dans le dossier C:\Users\Public\Documents\Autodesk\Inventor release year\Templates.
+
+Inventor prenait en charge les modules linguistiques pour de nombreuses versions. Vous pouviez ainsi installer plusieurs langues dans une seule installation d'Inventor, et basculer entre elles en utilisant le raccourci du menu Démarrer (qui utilise un paramètre de langue).  
+
+Même si les fichiers de gabarits localisés étaient installés avec les modules linguistiques, l'utilisation d'Inventor en différentes langues n'affectait pas les gabarits utilisés par défaut. 
+
+Avec Inventor 2020 tous les modules linguistiques sont installés et gérés de la même façon. Il n'est plus nécessaire de copier les gabarits vers le dossier parent, car le chemin des fichiers de gabarit est mis à jour lorsque vous changez de langue. Cela simplifie l'utilisation et la maintenance des gabarits, qu'ils soient personnalisés ou par défaut. 

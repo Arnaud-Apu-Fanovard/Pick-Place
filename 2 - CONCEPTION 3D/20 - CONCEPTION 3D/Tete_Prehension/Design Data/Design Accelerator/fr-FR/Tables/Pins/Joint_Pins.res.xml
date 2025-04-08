@@ -1,0 +1,7 @@
+<Resources>
+  <string id="%1%" value="Facteur de service"/>
+  <string id="%2%" value="Charge statique"/>
+  <string id="%3%" value="Charge répétée"/>
+  <string id="%4%" value="Charge alternée"/>
+  <string id="%5%" value="Facteur"/>
+</Resources>

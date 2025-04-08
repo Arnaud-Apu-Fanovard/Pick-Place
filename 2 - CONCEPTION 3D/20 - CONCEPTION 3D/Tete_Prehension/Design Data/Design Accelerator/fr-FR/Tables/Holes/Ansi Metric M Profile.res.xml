@@ -1,0 +1,16 @@
+<Resources>
+  <string id="%1%" value="Diamètre nominal"/>
+  <string id="%2%" value="Jeu réduit"/>
+  <string id="%3%" value="Jeu normal"/>
+  <string id="%4%" value="Jeu souple"/>
+  <string id="%5%" value="Diamètre de la tête"/>
+  <string id="%6%" value="Profondeur de lamage"/>
+  <string id="%7%" value="Angle de fraisure"/>
+  <string id="%8%" value="Profil M métrique ANSI"/>
+  <string id="%9%" value="Vis mécanique à tête plate ANSI"/>
+  <string id="%10%" value="Vis à tête hexagonale ANSI"/>
+  <string id="%11%" value="Vis d'assemblage à tête hexagonale ANSI"/>
+  <string id="%12%" value="Vis mécanique à tête hexagonale ANSI"/>
+  <string id="%13%" value="Vis mécanique à tête ovale ANSI"/>
+  <string id="%14%" value="Vis à tête cylindrique ANSI"/>
+</Resources>

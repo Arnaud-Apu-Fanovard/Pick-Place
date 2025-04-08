@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Modificateur de proportion des pignons"/>
+  <string id="%2%" value="Pignons avec chevauchement et coefficient de décalage inférieur à 0.175"/>
+  <string id="%3%" value="Pignons avec chevauchement et coefficient de décalage supérieur à 0.175"/>
+  <string id="%4%" value="Le coefficient de décalage est la distance de l'unité de la face médiane du pignon depuis le trait d'axe de la portée du roulement."/>
+</Resources>

@@ -1,0 +1,5 @@
+<Resources>
+  <string id="%1%" value="Facteur de durée d'usure"/>
+  <string id="%2%" value="Nombre de révolutions"/>
+  <string id="%3%" value="Facteur de durée d'usure, Kw"/>
+</Resources>

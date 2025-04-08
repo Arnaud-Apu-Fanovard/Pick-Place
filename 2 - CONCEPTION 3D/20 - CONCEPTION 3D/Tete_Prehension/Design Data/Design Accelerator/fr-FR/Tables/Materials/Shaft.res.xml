@@ -1,0 +1,15 @@
+<Resources>
+  <string id="%1%" value="Matière d'arbre (ANSI)"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Pression admissible"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="Contrainte de torsion admissible"/>
+  <string id="%6%" value="Acier inoxydable"/>
+  <string id="%7%" value="Acier allié/fin"/>
+  <string id="%8%" value="Acier moulé"/>
+  <string id="%9%" value="Fonte grise"/>
+  <string id="%10%" value="Bronze"/>
+  <string id="%11%" value="Matière"/>
+  <string id="%12%" value="||s||.Al|"/>
+  <string id="%13%" value="||t||.AlT|"/>
+</Resources>

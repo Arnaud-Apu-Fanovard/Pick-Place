@@ -1,0 +1,359 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "629722000214" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at 0.0 11.43 0)
+      (effects (font (size 1.27 1.27)) (justify bottom))
+    )
+    (property "Value" "629722000214" (id 1) (at 0.0 -15.24 0)
+      (effects (font (size 1.27 1.27)) (justify bottom))
+    )
+    (property "Footprint" "629722000214:629722000214" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "INTERFACE-TYPE" "Type C" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Würth Elektronik" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\nUSB CONN, 2.0 TYPE C, R/A RCPT, 16P, SMT;\n" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MOUNT" "SMT" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "IR" "5A" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/629722000214/Wurth+Elektronik/view-part/?ref=eda" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "VALUE" "629722000214" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PACKAGING" "Tape and Reel" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "APPLICATION" "USB 2.0" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PART-NUMBER" "629722000214" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/629722000214/Wurth+Elektronik/view-part/?ref=snap" (id 16) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DATASHEET-URL" "https://www.we-online.com/redexpert/spec/629722000214?ae" (id 17) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "629722000214" (id 18) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "WORKING-VOLTAGE" "20V(AC)" (id 19) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PINS" "16" (id 20) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "TYPE" "Horizontal" (id 21) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "GERDER" "Receptacle" (id 22) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "Not in stock" (id 23) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "629722000214_0_0"
+      (polyline
+        (pts (xy -10.16 9.525) (xy 10.16 9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.16 9.525) (xy 10.16 -12.065)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.16 -12.065) (xy -10.16 -12.065)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -10.16 -12.065) (xy -10.16 9.525)) (stroke (width 0.254))
+      )
+      (text "Shield" (at -12.7 -14.732 0)
+        (effects (font (size 1.27 1.27)) (justify bottom left))
+      )
+      (polyline
+        (pts (xy -10.16 10.16) (xy -8.6995 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -8.255 10.16) (xy -6.7945 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -6.35 10.16) (xy -4.8895 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 10.16) (xy -2.9845 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 10.16) (xy -1.0795 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 10.16) (xy 0.8255 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 10.16) (xy 2.7305 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.175 10.16) (xy 4.6355 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.08 10.16) (xy 6.5405 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 6.985 10.16) (xy 8.4455 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 8.89 10.16) (xy 10.3505 10.16)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 10.16) (xy 10.795 8.71682)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 8.255) (xy 10.795 6.81182)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 6.35) (xy 10.795 4.90682)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 4.445) (xy 10.795 3.00182)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 2.54) (xy 10.795 1.09682)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 0.635) (xy 10.795 -0.808182)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 -1.27) (xy 10.795 -2.71318)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 -3.175) (xy 10.795 -4.61818)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 -5.08) (xy 10.795 -6.52318)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 -6.985) (xy 10.795 -8.42818)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 -8.89) (xy 10.795 -10.3332)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.795 -10.795) (xy 10.795 -12.2382)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -12.7 -12.7) (xy -11.3771 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -10.795 -12.7) (xy -9.47208 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -8.89 -12.7) (xy -7.56708 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -6.985 -12.7) (xy -5.66208 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 -12.7) (xy -3.75708 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.175 -12.7) (xy -1.85208 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -12.7) (xy 0.0529167 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 -12.7) (xy 1.95792 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 -12.7) (xy 3.86292 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -12.7) (xy 5.76792 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 6.35 -12.7) (xy 7.67292 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 8.255 -12.7) (xy 9.57792 -12.7)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 10.16 -12.7) (xy 10.795 -12.7)) (stroke (width 0.254))
+      )
+      (pin passive line (at -15.24 7.62 0) (length 5.08)
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 5.08 0) (length 5.08)
+        (name "VBUS"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 2.54 0) (length 5.08)
+        (name "CC1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 0.0 0) (length 5.08)
+        (name "D+1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -2.54 0) (length 5.08)
+        (name "D-1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -5.08 0) (length 5.08)
+        (name "SBU1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -7.62 0) (length 5.08)
+        (name "VBUS1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -10.16 0) (length 5.08)
+        (name "GND1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 7.62 180.0) (length 5.08)
+        (name "GND2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 5.08 180.0) (length 5.08)
+        (name "VBUS2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 2.54 180.0) (length 5.08)
+        (name "SBU2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 -5.08 180.0) (length 5.08)
+        (name "CC2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 -7.62 180.0) (length 5.08)
+        (name "VBUS3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 -10.16 180.0) (length 5.08)
+        (name "GND3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -12.7 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -12.7 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -12.7 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -15.24 -12.7 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 0.0 180.0) (length 5.08)
+        (name "D-2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 15.24 -2.54 180.0) (length 5.08)
+        (name "D+2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

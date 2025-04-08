@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Facteur de répartition de la charge pour le désalignement des splines flexibles"/>
+  <string id="%2%" value="Désalignement, pouce par pouce"/>
+  <string id="%3%" value="Facteur de répartition de la charge, Km"/>
+  <string id="%4%" value="Largeur de face 1/2 po"/>
+  <string id="%5%" value="Largeur de face 1 po"/>
+  <string id="%6%" value="Largeur de face 2 po"/>
+  <string id="%7%" value="Largeur de face 4 po"/>
+</Resources>

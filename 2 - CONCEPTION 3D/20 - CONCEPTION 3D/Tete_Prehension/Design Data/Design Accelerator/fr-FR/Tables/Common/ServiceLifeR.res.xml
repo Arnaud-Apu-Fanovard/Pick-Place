@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Durée de vie désirée [mil. de tours]"/>
+  <string id="%2%" value="Valeur tpm faible, rarement utilisée"/>
+  <string id="%3%" value="Valeur tpm faible, pas toujours utilisée à plein"/>
+  <string id="%4%" value="Valeur tpm faible, utilisée à plein"/>
+  <string id="%5%" value="Valeur tpm moyenne, rarement utilisée"/>
+  <string id="%6%" value="Valeur tpm moyenne, pas toujours utilisée à plein"/>
+  <string id="%7%" value="Valeur tpm moyenne, utilisée à plein"/>
+  <string id="%8%" value="Valeur tpm élevée, rarement utilisée"/>
+  <string id="%9%" value="Valeur tpm élevée, pas toujours utilisée à plein"/>
+  <string id="%10%" value="Valeur tpm élevée, utilisée à plein"/>
+</Resources>

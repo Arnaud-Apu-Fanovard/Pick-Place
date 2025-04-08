@@ -1,0 +1,19 @@
+<Resources>
+  <string id="%1%" value="Matière de la portée d'arbre"/>
+  <string id="%2%" value="Désignation de la matière"/>
+  <string id="%3%" value="Module d'élasticité"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Coefficient de Poisson"/>
+  <string id="%6%" value="Coefficient de la dilatation thermique"/>
+  <string id="%7%" value="Acier à faible teneur en carbone"/>
+  <string id="%8%" value="Fonte grise"/>
+  <string id="%9%" value="Alliages d'aluminium"/>
+  <string id="%10%" value="Alliages de magnésium"/>
+  <string id="%11%" value="Bronze d'étain"/>
+  <string id="%12%" value="Cuproaluminium"/>
+  <string id="%13%" value="Laiton"/>
+  <string id="%14%" value="Matière"/>
+  <string id="%15%" value="E"/>
+  <string id="%16%" value="||m|"/>
+  <string id="%17%" value="CoeffT"/>
+</Resources>

@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="Facteur de montage"/>
+  <string id="%2%" value="Caractéristiques du support"/>
+  <string id="%3%" value="Largeur de face [po]"/>
+  <string id="%4%" value="0 à 2"/>
+  <string id="%5%" value="16 ou plus"/>
+  <string id="%6%" value="Montages précis, jeux de roulement réduits, flexion minimale, engrenages de précision"/>
+  <string id="%7%" value="Montages moins rigides, engrenages moins précis, contact sur l'ensemble de la face"/>
+  <string id="%8%" value="Précision et montage tels que le contact ne couvre pas l'ensemble de la face"/>
+  <string id="%9%" value="plus de 2.2"/>
+</Resources>

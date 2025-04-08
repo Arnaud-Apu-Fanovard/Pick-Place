@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Facteur de lubrification"/>
+  <string id="%2%" value="Vitesse de chaîne"/>
+  <string id="%3%" value="Méthode de lubrification"/>
+  <string id="%4%" value="Lubrification conseillée"/>
+  <string id="%5%" value="Lubrification acceptable"/>
+  <string id="%6%" value="Jamais en défaut"/>
+  <string id="%7%" value="Insuffisant"/>
+  <string id="%8%" value="Aucune lubrification"/>
+  <string id="%9%" value="Nettoyé"/>
+  <string id="%10%" value="Sale"/>
+  <string id="%11%" value="Jusqu'à 4 m/s"/>
+  <string id="%12%" value="Jusqu'à 7 m/s"/>
+  <string id="%13%" value="Jusqu'à 12 m/s"/>
+  <string id="%14%" value="Au-delà de 12 m/s"/>
+  <string id="%15%" value="Goutte à goutte"/>
+  <string id="%16%" value="Lubrification manuelle"/>
+  <string id="%17%" value="Inadmissible"/>
+  <string id="%18%" value="Bain d'huile ou disque"/>
+  <string id="%19%" value="Goutte à goutte"/>
+  <string id="%20%" value="Sous pression"/>
+  <string id="%21%" value="Vapeur d'huile, sous pression"/>
+v</Resources>

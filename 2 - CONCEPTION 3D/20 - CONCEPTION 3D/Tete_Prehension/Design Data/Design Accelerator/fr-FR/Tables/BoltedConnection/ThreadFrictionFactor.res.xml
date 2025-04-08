@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Facteur résiduel"/>
+  <string id="%2%" value="Surface de filetage"/>
+  <string id="%3%" value="Non lubrifié"/>
+  <string id="%4%" value="Lubrifié"/>
+  <string id="%5%" value="revêtement noir ou phosphaté"/>
+  <string id="%6%" value="revêtement au zinc galvanisé"/>
+  <string id="%7%" value="placage au cadmium"/>
+</Resources>

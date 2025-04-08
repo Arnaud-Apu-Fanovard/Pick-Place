@@ -1,0 +1,5 @@
+<Resources>
+  <string id="%1%" value="Facteur de correction du pas hélicoïdal"/>
+  <string id="%2%" value="Engrenage avec pas hélicoïdaux non modifiés"/>
+  <string id="%3%" value="Engrenage avec pas hélicoïdaux correctement modifiés par correction de bombé ou de pas hélicoïdal"/>
+</Resources>

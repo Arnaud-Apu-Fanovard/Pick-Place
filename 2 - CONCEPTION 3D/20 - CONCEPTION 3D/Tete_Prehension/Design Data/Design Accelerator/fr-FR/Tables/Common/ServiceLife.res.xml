@@ -1,0 +1,10 @@
+<Resources>
+  <string id="%1%" value="Durée de vie désirée [heures]"/>
+  <string id="%2%" value="Machines, instruments et outils domestiques rarement utilisés"/>
+  <string id="%3%" value="Machines destinées à un usage intermittent ou de courte durée, ex. outils manuels"/>
+  <string id="%4%" value="Machines à haute fiabilité utilisées de manière intermittente ou sur de courtes périodes"/>
+  <string id="%5%" value="Machines prévues pour un usage de 8 heures par jour mais pas toujours utilisées à plein"/>
+  <string id="%6%" value="Machines prévues pour un usage de 8 heures par jour et utilisées à plein"/>
+  <string id="%7%" value="Machines prévues pour un usage continu"/>
+  <string id="%8%" value="Machine prévues pour un usage continu, avec des critères de sécurité élevés"/>
+</Resources>

@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Matière de spline"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Dureté Brinell"/>
+  <string id="%4%" value="nd"/>
+  <string id="%5%" value="Dureté Vicker (pyramide)"/>
+  <string id="%6%" value="Contrainte de pression admissible"/>
+  <string id="%7%" value="psi"/>
+  <string id="%8%" value="Contrainte de cisaillement admissible"/>
+  <string id="%9%" value="Acier"/>
+  <string id="%10%" value="Acier de surface trempée"/>
+  <string id="%11%" value="Acier de cémentation"/>
+  <string id="%12%" value="Matière"/>
+  <string id="%13%" value="B|.hn|"/>
+  <string id="%14%" value="HV"/>
+  <string id="%15%" value="S|.c|"/>
+  <string id="%16%" value="S|.s|"/>
+  <string id="%17%" value="Contrainte de tension admissible"/>
+  <string id="%18%" value="S|.t|"/>
+</Resources>

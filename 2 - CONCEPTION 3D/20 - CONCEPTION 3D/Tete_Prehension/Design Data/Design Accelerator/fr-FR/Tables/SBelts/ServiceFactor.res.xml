@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Facteur de service"/>
+  <string id="%2%" value="Charge basse"/>
+  <string id="%3%" value="Charge uniforme"/>
+  <string id="%4%" value="Charge de choc léger"/>
+  <string id="%5%" value="Charge de choc modéré"/>
+  <string id="%6%" value="Charge de choc lourd"/>
+  <string id="%7%" value="Service intermittent"/>
+  <string id="%8%" value="Service normal"/>
+  <string id="%9%" value="Service continu"/>
+  <string id="%10%" value="3-8 heures par jour"/>
+  <string id="%11%" value="8-16 heures par jour"/>
+  <string id="%12%" value="16-24 heures par jour"/>
+  <string id="%13%" value="Entraînement"/>
+  <string id="%14%" value="Entraîné"/>
+  <string id="%15%" value="Couple uniforme"/>
+  <string id="%16%" value="Couple élevé/non uniforme"/>
+</Resources>

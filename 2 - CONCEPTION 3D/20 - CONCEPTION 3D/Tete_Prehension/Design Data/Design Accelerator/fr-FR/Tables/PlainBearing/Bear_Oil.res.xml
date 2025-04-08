@@ -1,0 +1,55 @@
+<Resources>
+  <string id="%1%" value="Viscosité dynamique des lubrifiants sélectionnés dépendante de la température"/>
+  <string id="%2%" value="Lubrifiant"/>
+  <string id="%3%" value="Désignation du lubrifiant"/>
+  <string id="%4%" value="||h|"/>
+  <string id="%5%" value="Viscosité dynamique du lubrifiant à 0 |^o|C"/>
+  <string id="%6%" value="Pa s"/>
+  <string id="%7%" value="||r|"/>
+  <string id="%8%" value="Densité de l'huile"/>
+  <string id="%9%" value="kg m|^3|"/>
+  <string id="%10%" value="Viscosité dynamique du lubrifiant à 10 |^o|C"/>
+  <string id="%11%" value="Viscosité dynamique du lubrifiant à 20 |^o|C"/>
+  <string id="%12%" value="Viscosité dynamique du lubrifiant à 30 |^o|C"/>
+  <string id="%13%" value="Viscosité dynamique du lubrifiant à 40 |^o|C"/>
+  <string id="%14%" value="Viscosité dynamique du lubrifiant à 50 |^o|C"/>
+  <string id="%15%" value="Viscosité dynamique du lubrifiant à 60 |^o|C"/>
+  <string id="%16%" value="Viscosité dynamique du lubrifiant à 70 |^o|C"/>
+  <string id="%17%" value="Viscosité dynamique du lubrifiant à 80 |^o|C"/>
+  <string id="%18%" value="Viscosité dynamique du lubrifiant à 90 |^o|C"/>
+  <string id="%19%" value="Viscosité dynamique du lubrifiant à 100 |^o|C"/>
+  <string id="%20%" value="Huile à palier SAE 10; 10-W"/>
+  <string id="%21%" value="Huile à palier SAE 20; 20-W"/>
+  <string id="%22%" value="Huile à palier SAE 30"/>
+  <string id="%23%" value="Huile à palier SAE 40"/>
+  <string id="%24%" value="Huile à palier SAE 50"/>
+  <string id="%25%" value="Huile à palier SAE 60"/>
+  <string id="%26%" value="Huile à palier SAE 70"/>
+  <string id="%27%" value="Huile à palier P0"/>
+  <string id="%28%" value="Huile à palier J1"/>
+  <string id="%29%" value="Huile à palier J2"/>
+  <string id="%30%" value="Huile turbine TB32"/>
+  <string id="%31%" value="Huile à palier J3"/>
+  <string id="%32%" value="Huile turbine T4C"/>
+  <string id="%33%" value="Huile à palier J4"/>
+  <string id="%34%" value="Huile à palier J5"/>
+  <string id="%35%" value="Huile pour moteur M3AD"/>
+  <string id="%36%" value="Huile pour moteur M4A"/>
+  <string id="%37%" value="Huile à palier J6"/>
+  <string id="%38%" value="Huile pour moteur M6A"/>
+  <string id="%39%" value="Huile OD8"/>
+  <string id="%40%" value="Huile M9A"/>
+  <string id="%41%" value="Huile K12"/>
+  <string id="%42%" value="Huile K18"/>
+  <string id="%43%" value="||h||.0|"/>
+  <string id="%44%" value="||h||.10|"/>
+  <string id="%45%" value="||h||.20|"/>
+  <string id="%46%" value="||h||.30|"/>
+  <string id="%47%" value="||h||.40|"/>
+  <string id="%48%" value="||h||.50|"/>
+  <string id="%49%" value="||h||.60|"/>
+  <string id="%50%" value="||h||.70|"/>
+  <string id="%51%" value="||h||.80|"/>
+  <string id="%52%" value="||h||.90|"/>
+  <string id="%53%" value="||h||.100|"/>
+</Resources>

@@ -1,0 +1,21 @@
+<Resources>
+  <string id="%1%" value="Matière de la liaison"/>
+  <string id="%2%" value="Désignation de matière"/>
+  <string id="%3%" value="Pression admissible (charge statique)"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="Module d'élasticité"/>
+  <string id="%6%" value="Acier gr. 37; 42"/>
+  <string id="%7%" value="Acier gr. 50"/>
+  <string id="%8%" value="Acier gr. 60"/>
+  <string id="%9%" value="Acier gr. 70"/>
+  <string id="%10%" value="Acier moulé"/>
+  <string id="%11%" value="Fonte grise"/>
+  <string id="%12%" value="Bronze"/>
+  <string id="%13%" value="Matière"/>
+  <string id="%14%" value="||s||.A1|"/>
+  <string id="%15%" value="E"/>
+  <string id="%16%" value="Pression admissible (charge répétée)"/>
+  <string id="%17%" value="Pression admissible (charge alternée)"/>
+  <string id="%18%" value="||s||.A2|"/>
+  <string id="%19%" value="||s||.A3|"/>
+</Resources>

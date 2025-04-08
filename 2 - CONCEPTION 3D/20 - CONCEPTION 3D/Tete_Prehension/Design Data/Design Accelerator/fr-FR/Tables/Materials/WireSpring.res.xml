@@ -1,0 +1,34 @@
+<Resources>
+<string id="%1%" value="Matière de ressort"/>
+<string id="%2%" value="Désignation de matière"/>
+<string id="%3%" value="Densité"/>
+<string id="%4%" value="lb/ft^3"/>
+<string id="%5%" value="Module de cisaillement"/>
+<string id="%6%" value="psi"/>
+<string id="%7%" value="Rapport entre la contrainte de torsion admissible et la résistance à la traction"/>
+<string id="%8%" value="Résistance à la traction"/>
+<string id="%9%" value="Fil d'acier écroui QQ-W-428"/>
+<string id="%10%" value="Corde à piano QQ-W-470"/>
+<string id="%11%" value="Fil d'acier trempé à l'huile QQ-W-428"/>
+<string id="%12%" value="Fil d'acier en alliage chrome et silicium QQ-W-412"/>
+<string id="%13%" value="Fil d'acier résistant à l'oxydation QQ-W-423"/>
+<string id="%14%" value="Fil d'acier en alliage chrome et vanadium"/>
+<string id="%15%" value="Fil d'acier mangano-siliceux"/>
+<string id="%16%" value="Fil de qualité pour ressorts de soupapes"/>
+<string id="%17%" value="Acier inoxydable 304 et 420"/>
+<string id="%18%" value="Acier inoxydable 316"/>
+<string id="%19%" value="Acier inoxydable 431 et 17-7PH"/>
+<string id="%20%" value="Matière"/>
+<string id="%21%" value="Std"/>
+<string id="%22%" value="Norme"/>
+<string id="%23%" value="R|.o|"/>
+<string id="%24%" value="G"/>
+<string id="%25%" value="Coeffs"/>
+<string id="%26%" value="WD"/>
+<string id="%27%" value="Diamètres de fil"/>
+<string id="%28%" value="in"/>
+<string id="%29%" value="||s||.ult|"/>
+<string id="%30%" value="ANSI"/>
+<string id="%31%" value="Diamètres de fil et résistance à la traction"/>
+<string id="%32%" value="nd"/>
+</Resources>
